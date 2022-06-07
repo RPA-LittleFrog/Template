@@ -1,7 +1,9 @@
 LittleFrog User Manual:
 
 1 - Create a role with package rights
+
 2 - Create a local user in the orchestrator and give him the newly created role
+
 3 - Use this user in the LittleFrog login window
 
 
