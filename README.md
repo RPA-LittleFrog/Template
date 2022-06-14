@@ -1,3 +1,5 @@
+This version is for on premise Orchestrator only (cloud version is in progress)
+
 LittleFrog User Manual:
 
 1 - Create a role with package rights
