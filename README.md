@@ -20,5 +20,7 @@ pixabay licence : https://pixabay.com/fr/service/license/
 
 
 -- LittleFrog is a opensource project --
+
 -- Free for commercial use --
+
 -- No attribution required --
